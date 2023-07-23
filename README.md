@@ -2,7 +2,7 @@
 Hello, 
 👋 Welcome to my GitHub!
 
-My name is Wanjihia Njuguna. I'm a Data Analyst || Analytics Enthusiast || Insights Driver. I Will Scrape the internet and collect data for you, transform and organize the data in a form that can be analyzed to draw conclusions. After analysis using tools like Power BI and Tableau, I will make predictions and drive informed decision-making. 
+My name is Wanjihia Njuguna. I'm a Data Analyst || Analytics Enthusiast || Insights Driver. I Will Scrape the internet and collect data for you, transform and organize the data in a form that can be analyzed to draw conclusions. After analysis, I will make predictions and drive informed decision-making. 
 
 I'm a passionate and results-driven Data Analyst with a keen eye for unlocking the hidden stories within complex datasets. My journey in the world of data began with a fascination for numbers, patterns, and the powerful narratives they create.
 
