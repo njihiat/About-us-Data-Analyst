@@ -1,4 +1,3 @@
 # Hello-world
 Hello, 
-My name is Wanjihia Njuguna. Am an Intermediate Data Anayst and a Python Developer. 
-This is my first git hub repository. I am learning how to use git hub to host my projects.
+My name is Wanjihia Njuguna. I am a Data Analyst. I Will Scrape the internet and collect data for you, transform and organize the data in a form that can be analyzed to draw conclusions. After analysis using tools like Power BI and Tableau, I will make predictions and drive informed decision-making. 
