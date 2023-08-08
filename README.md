@@ -20,7 +20,7 @@ On this GitHub, you'll find an array of projects showcasing my analytical prowes
 
 🌱 Always Learning
 
-The data world is ever-evolving, and I am committed to continuous growth. I embrace challenges that push my boundaries and eagerly learn from others in the community. Together, we can revolutionize industries through data-driven insights and innovation.
+The data world is ever-evolving, and I am committed to continuous growth. I embrace challenges that push my boundaries and eagerly learn from others in the community. Together, we can revolutionize industries through data-driven insights and innovation. Currently enrolled in Google data analytics in Coursera and Data Analytics at ALX.
 
 🤝 Let's Connect
 
